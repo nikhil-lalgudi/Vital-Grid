@@ -7,7 +7,7 @@ We are building a mobile app that enables real-time prevention for amateur sport
 Frontend Libraries:
 
 - React Native
-- Redux
+- Swift
 
 Backend Libraries:
 
