@@ -1,6 +1,6 @@
 # VitalGrid
 
-We are building a mobile app that helps organize contacts, email reminders, and call notes into one simple website. Gone are the days of messy spreadsheets and nested folder Google drives full of call notes which are unintuitive, difficult to maintain, and full of loopholes.
+We are building a mobile app that enables real-time prevention for amateur sports utilizing a variety of hardware sources
 
 ## Architecture
 
