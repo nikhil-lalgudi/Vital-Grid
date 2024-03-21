@@ -13,6 +13,7 @@ Backend Libraries:
 
 - Flask
 - Express
+- SQL
 
 ## Setup
 
